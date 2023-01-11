@@ -1,7 +1,9 @@
-### Olá! Eu sou o Eduardo
+### Olá!
 
-- 🌱 Hoje estou estudando JavaScript, HTML e CSS.
-- 😄 Pronouns: ele/dele
+Meu nome é Eduardo, atualmente estou realizando um cuso ***Fullstack*** na Cubos Academy, apesar do curso ser Fullstack eu acabei gostando mais de ***Back-end***.
+
+- 🤓 Amo jogar RPG de mesa.
+- 🌱 Hoje estou estudando JavaScript, HTML, CSS, React e SQL.
 
 ##
 
@@ -12,9 +14,9 @@
 </div>
   
  ##
-  
+  ### 💻 Hardskills
 <div style="display: inline_block"><br>
-  <img align="center" alt="Dudu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg"> 
+  <img align="center" alt="Dudu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Dudu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Dudu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
