@@ -3,7 +3,7 @@
 Meu nome é Eduardo, atualmente estou realizando um cuso ***Fullstack*** na Cubos Academy, apesar do curso ser Fullstack eu acabei gostando mais de ***Back-end***.
 
 - 🤓 Amo jogar RPG de mesa.
-- 🌱 Hoje estou estudando JavaScript, HTML, CSS, React e SQL.
+- 🌱 Hoje estou estudando JavaScript, TypeScript, HTML, CSS, React e SQL.
 
 ##
 
