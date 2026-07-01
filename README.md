@@ -1,36 +1,100 @@
-### Olá!
+# Hi there! 👋 I'm Eduardo Jarek
 
-Meu nome é Eduardo, sou formado em ***Desenvolvimento de Software Fullstack*** administrado pela Cubos Academy, apesar do curso ser Fullstack eu acabei gostando mais de ***Back-end***.
+### Backend Software Engineer | TypeScript • Node.js • NestJS | Full Stack Experience
 
-- 🤓 Amo jogar RPG de mesa.
-- 🌱 Hoje estou estudando JavaScript, TypeScript, HTML, CSS, React, Nestjs e SQL.
+I'm a **Backend Software Engineer** with **3+ years of professional experience** building scalable web applications, REST APIs, and backend services using **TypeScript**, **Node.js**, and **NestJS**.
 
-##
+While I have solid Full Stack experience with **React** and **Next.js**, my main passion is backend engineering—designing clean architectures, building reliable APIs, optimizing databases, and creating software that's easy to maintain and scale.
+
+I enjoy solving complex problems, learning new technologies, and continuously improving my engineering skills. My goal is to build software that delivers real business value while following clean code principles and modern software architecture practices.
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,nodejs,nestjs,express" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind" />
+</p>
+
+### 🗄️ Databases
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb" />
+</p>
+
+### ☁️ Tools & Technologies
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,linux,postman" />
+</p>
+
+---
+
+## 💼 What I Enjoy Working On
+
+* ⚙️ Designing scalable backend architectures
+* 🔗 Building REST APIs
+* 🛠️ System integrations
+* 🗄️ Database modeling and optimization
+* 🚀 Performance improvements
+* 📦 Clean Architecture & SOLID principles
+* 🧪 Writing maintainable and testable code
+* 🤝 Working in Agile teams
+
+---
+
+## 🌱 Currently Learning
+
+* Software Architecture
+* Distributed Systems
+* Cloud Technologies
+* Docker & Containers
+* CI/CD
+* Design Patterns
+
+---
+
+## 🎯 Career Goal
+
+I'm currently looking for opportunities as a **Backend Software Engineer** or **Full Stack Software Engineer**, where I can contribute to challenging products, collaborate with great teams, and continue growing as a software engineer.
+
+---
+
+## 🎲 Beyond Coding
+
+When I'm not coding, you'll probably find me:
+
+* 🎲 Playing Tabletop RPGs
+* 🎸 Practicing guitar
+* 🎮 Playing games
+* 📚 Reading about software architecture and engineering
+
+---
+
+## 📫 Let's Connect
+
+<p align="left">
+<a href="mailto:eduardojarek66@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/eduardo-jarek-9773a5164/">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+</p>
+
+---
 
 <div align="center">
-  <a href="https://github.com/EduardoRag">
-  <img height="165em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=EduardoRag&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoRag&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
-  
- ##
-  ### 💻 Hard Skills
-<div style="display: inline_block"><br>
-  <img align="center" alt="Dudu-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Dudu-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Dudu-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Dudu-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/react/react-original.svg">
-  <img align="center" alt="Dudu-PostgreSql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/postgresql/postgresql-original.svg">
-  <img align="center" alt="Dudu-MongoDb" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/mongodb/mongodb-original.svg">
-  <img align="center" alt="Dudu-Nodejs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nodejs/nodejs-original.svg">
-  <img align="center" alt="Dudu-Nestjs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/55609aa5bd817ff167afce0d965585c92040787a/icons/nestjs/nestjs-plain.svg">
-</div>
-  
-##
-  
-<div>
-  <a href = "mailto:eduardojarek66@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="[https://www.linkedin.com/in/rafaella-ballerini-45875016a](https://www.linkedin.com/in/eduardo-jarek-9773a5164/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  
-  ![Snake animation](https://github.com/EduardoRag/EduardoRag/blob/output/github-contribution-grid-snake.svg)
+
+> *"Great software isn't just about writing code — it's about solving problems with simplicity, quality, and continuous improvement."*
+
 </div>
